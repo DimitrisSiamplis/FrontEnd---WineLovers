@@ -1,0 +1,83 @@
+.title{
+    /* margin-top: 3%; */
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.loginCard{
+    
+    /* margin-top: 3%;
+    margin-left: 25%;
+    margin-right: 25%; */
+    
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 2px 3px rgb(131, 57, 57);
+    border-radius: 5px;
+}
+
+.alertMessage{
+    color: red;
+}
+.loginOrRegister{
+    font-size: 25px;
+}
+
+.texts-under-login{
+    text-align: center;
+}
+
+.forgot-password-text{
+    font-style: italic;
+    font-weight: 600;
+}
+.forgot-password-text:hover{
+    cursor: pointer;
+    color: rgb(112, 17, 17);
+}
+
+
+.login-text{
+    text-align: center;
+}
+
+.login-text-decoration{
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+.forgot-password-image{
+    width: 90%;
+    height: 100%;
+}
+
+.forgot-password-box{
+    height: 150%;
+}
+
+.forgot-password-container{
+    text-align: center;
+   
+    background-color: rgb(246, 246, 246);
+}
+
+input[type=search]::-webkit-search-cancel-button {
+    -webkit-appearance: searchfield-cancel-button;
+}
+
+.forgot-password-error-message{
+    color: red;
+   
+}
+.email-input{
+    width: 50%;
+    margin-left: 25%;
+}
+@media screen and (max-width: 600px) {
+    .email-input{
+        width: 80%;
+        margin-left: 10%;
+    }
+  }

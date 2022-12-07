@@ -1,0 +1,57 @@
+.rounded-circle.me-3{
+    height: 8%;
+    width: 8%;
+}
+
+
+.popoverButton{
+    background-color: white;
+    color: darkblue;
+    text-decoration: underline;
+    border: none;
+    padding: 0;
+}
+
+.mb-2.css{
+    background-color: rgb(244, 234, 222);
+}
+
+.eyeFaIcon{
+   margin-left: 2%;
+   color: rgb(28, 28, 242);
+    font-size: 18px;
+    text-align: center;
+}
+
+.eyeFaIcon:hover{
+    cursor: pointer;
+    font-size: 22px;
+}
+
+
+.blogAndFilter{
+    display: flex;
+   
+}
+
+.applieToQuestionFilters{
+    width: 20%;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+
+.container.py-4{
+    margin-right: 10%;
+}
+
+
+.delete-icon{
+    font-size: 27px;
+    color: rgb(210, 70, 70);
+}
+
+.delete-icon:hover{
+    cursor: pointer;
+    font-size: 29px;
+    color: red;
+}

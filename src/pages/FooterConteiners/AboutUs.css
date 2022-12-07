@@ -1,0 +1,33 @@
+.about-container{
+    text-align: center;
+}
+
+
+.about-info{
+    background-color: rgb(243, 246, 250);
+    padding: 2%;
+    margin-bottom: 1%;
+}
+
+
+.image-about{
+    margin-left: 35%;
+    width: 30%;
+    height: 30%;
+    border-radius: 100%;
+    margin-bottom: 1%;
+}
+
+@media screen and (max-width: 400px) {
+    .image-about{
+        margin-left: 25%;
+        width: 50%;
+        height: 30%;
+        border-radius: 100%;
+        margin-bottom: 1%;
+    }
+  }
+
+.name-under-image{
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+.personal-details-table{
+    width: 100%;
+}
+
+
+.order-details-icon:hover{
+    font-size: larger;
+    cursor: pointer;
+    color: rgb(98, 39, 39);
+}
+
+tr:hover{
+    background-color: aliceblue;
+    
+}
+
+.click-wine-history:hover{
+    color: rgb(75, 21, 21);
+    cursor: pointer;
+   
+}
+
+.history-icon{
+    font-size: 22px;
+}

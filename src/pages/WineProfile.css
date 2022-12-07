@@ -1,0 +1,66 @@
+.wineImage {
+    width: 3%;
+    height: 100%;
+}
+.wineImage:hover{
+    transform: scale(2.5);
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.wineContainer{
+    margin-left: 18%;
+    width: 60%;
+}
+
+.noSelected{
+    color: gray;
+}
+
+.Selected{
+    color: gold;
+}
+
+
+.wineProfileImage{
+    width: 25%;
+    height: 100%;
+    transform: scale(1.5);
+}
+
+.wineProfileImage:hover{
+    transform: scale(1.7);
+    /* opacity: 0.8; */
+    cursor: pointer;
+}
+.rowComment{
+    margin-top: 3%;
+}
+
+
+.wineTitle{
+    margin-bottom: 2%;
+    
+}
+
+@media screen and (max-width: 700px) {
+    .wineProfileImage{
+        width: 60%;
+        height: 100%;
+        transform: scale(1.5);
+    }
+  }
+  @media screen and (max-width: 500px) {
+    .wineProfileImage{
+        width: 70%;
+        height: 100%;
+        transform: scale(1.5);
+    }
+  }
+  @media screen and (max-width: 350px) {
+    .wineProfileImage{
+        width: 90%;
+        height: 100%;
+        transform: scale(1.5);
+    }
+  }

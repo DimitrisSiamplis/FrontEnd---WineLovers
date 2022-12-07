@@ -1,0 +1,15 @@
+.image-new{
+    width: 80%;
+    height: 200px;
+}
+
+.image-new:hover{
+    transform: scale(1.05);
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.news-title:hover{
+    color: rgb(122, 50, 38);
+    cursor: pointer;
+}

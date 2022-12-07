@@ -1,0 +1,21 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #222;
+    color: white;
+    letter-spacing: 0.5px;
+    /* color: #3c97bf; */
+}
+
+.footer-title{
+    text-align: center;
+}
+
+
+
+.footer-link:hover{
+    cursor: pointer;
+    color: rgb(249, 123, 104);
+    text-decoration: underline;
+}

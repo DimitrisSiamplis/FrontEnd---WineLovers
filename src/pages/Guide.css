@@ -1,0 +1,40 @@
+.title{
+    margin-top: 2%;
+}
+.guidecontainer{
+    color: rgb(110, 17, 17);
+    text-decoration: underline;
+    font-size: 23px;
+}
+
+
+.arrow{
+    font-size: 25px;
+}
+
+
+.rulesContain{
+    margin-left: 3%;
+}
+
+.arrow.rule{
+    font-size: 18px;
+}
+
+
+.ruleTitle{
+    text-decoration: underline;
+}
+
+
+
+
+.term{
+    color: rgb(9, 22, 137);
+}
+
+
+.image-sweetness{
+    width: 100%;
+    height: 750px;
+}

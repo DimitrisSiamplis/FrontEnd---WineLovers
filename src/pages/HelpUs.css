@@ -1,0 +1,26 @@
+.helpUsTitle{
+    margin-top: 2%;
+    margin-left: 12%;
+    margin-right: 2%;
+}
+
+.helpUsTitleContent{
+    margin-top: 1%;
+   
+    
+}
+
+.reactIcon{
+    font-size: 25px;
+}
+
+
+.imageFood{
+    width: 40%;
+    height: 60%;
+}
+
+.back:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

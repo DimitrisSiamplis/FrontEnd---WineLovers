@@ -1,0 +1,49 @@
+input {
+    height: 35px;
+}
+
+.loginAlert{
+    margin-top: 3%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+
+.night{
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 1%;
+}
+
+.checked-login-register{
+    margin-top: 2%;
+    text-align: center;
+}
+
+
+.login-register-icons{
+    font-size: 22px;
+}
+
+
+.login-register-text:hover{
+    cursor: pointer;
+    color: rgb(112, 17, 17);
+    font-size: larger;
+}
+
+.distance-from-footer{
+    margin-bottom: 35%;
+}
+
+
+.holesite{
+    margin-bottom: 200px;
+}
+
+/* @media screen and (max-width: 600px) {
+    .holesite{
+        margin-bottom: 100%;
+    }
+  } */

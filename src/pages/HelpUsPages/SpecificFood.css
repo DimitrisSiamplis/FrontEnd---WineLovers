@@ -1,0 +1,21 @@
+.plus-icon{
+    margin-top: 42%;
+    font-size: 25px;
+    
+}
+
+.plus-icon:hover{
+    cursor: pointer;
+    color: green;
+}
+
+.x-icon{
+    margin-top: 42%;
+    font-size: 25px;
+    
+}
+
+.x-icon:hover{
+    cursor: pointer;
+    color: red;
+}

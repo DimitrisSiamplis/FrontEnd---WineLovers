@@ -1,0 +1,59 @@
+
+
+.image-food-wine{
+    background: url('https://vinepair.com/wp-content/uploads/2017/05/sommelier-social-1.jpg');
+    width:92%; 
+    height: 400px;
+    background-position: 30% 50%;;
+    
+}
+
+
+@media screen and (max-width: 1000px) {
+    .image-food-wine{
+        background: url('https://vinepair.com/wp-content/uploads/2017/05/sommelier-social-1.jpg');
+        width:100%; 
+        height: 300px;
+        background-position: 30% 50%;;
+        
+    }
+  }
+
+.image-category{
+    width: 100%;
+    height: 200px;
+}
+
+.container-category {
+    position: relative;
+  }
+  .text-block {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: -36px;
+    right: 0px;
+    background-color: rgb(105, 22, 22);
+    color: rgb(225, 221, 221);
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0.8;
+  }
+
+
+  .container-category:hover {
+    cursor: pointer;
+    
+  }
+  .image-category:hover {
+    transform: scale(1.05);
+    
+  }
+
+
+
+  .p-foodWine{
+    font-size: 20px;
+   
+  }
+  
